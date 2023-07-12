@@ -40,13 +40,32 @@ import {
     },
   ];
   
+  // const services = [
+  //   {
+  //     title: "Web Developer",
+  //     icon: web,
+  //   },
+  //   {
+  //     title: "React Native Developer",
+  //     icon: mobile,
+  //   },
+  //   {
+  //     title: "Backend Developer",
+  //     icon: backend,
+  //   },
+  //   {
+  //     title: "Content Creator",
+  //     icon: creator,
+  //   },
+  // ];
+
   const services = [
     {
-      title: "Web Developer",
+      title: "Python Developer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Software Developer",
       icon: mobile,
     },
     {
@@ -54,7 +73,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Cloud Deployment",
       icon: creator,
     },
   ];
