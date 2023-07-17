@@ -25,6 +25,8 @@ import {
     jobit,
     tripguide,
     threejs,
+    python,
+    aws,
   } from "../assets";
   
   export const navLinks = [
@@ -133,6 +135,14 @@ import {
       name: "docker",
       icon: docker,
     },
+    {
+      name: "python",
+      icon: python,
+    },
+    {
+      name: "aws",
+      icon: aws,
+    }
   ];
   
   const experiences = [
@@ -151,7 +161,7 @@ import {
       ],
     },
     {
-      title: "Application Developer",
+      title: "Solutions Engineer",
       company_name: "Bayer",
       icon: bayer,
       iconBg: "#383E56",
