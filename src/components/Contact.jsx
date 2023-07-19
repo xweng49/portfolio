@@ -93,7 +93,7 @@ const Contact = () => {
               value={form.email}
               onChange={handleChange}
               placeholder="What's your email?"
-              className="bg-tertiary py-4 px-6 placeholder:tedxt-secondary text-white rounded-lg outlined-none border-none font-medium"
+              className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outlined-none border-none font-medium"
             />
           </label>
           <label className="flex flex-col">
@@ -103,7 +103,7 @@ const Contact = () => {
               name="message"
               value={form.message}
               onChange={handleChange}
-              placeholder="What do you want to stay?"
+              placeholder="What do you want to say?"
               className="bg-tertiary py-4 px-6 placeholder:tedxt-secondary text-white rounded-lg outlined-none border-none font-medium"
             />
           </label>
